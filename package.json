@@ -1,7 +1,7 @@
 {
   "name": "insta-app",
   "version": "0.1.0",
-  "homepage": "https://jhon-dante.github.io/insta-repo-app/",
+  "homepage": "http://jhon-dante.github.io/insta-repo-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
