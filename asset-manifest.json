@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/insta-repo-app/static/css/main.c1c3b275.css",
+    "main.js": "/insta-repo-app/static/js/main.da004b2f.js",
+    "static/js/787.17499830.chunk.js": "/insta-repo-app/static/js/787.17499830.chunk.js",
+    "static/media/user.svg": "/insta-repo-app/static/media/user.b8aee7145963e4f3fa4617f7cf576943.svg",
+    "static/media/explore.svg": "/insta-repo-app/static/media/explore.47b2ee6cf03f576551a9a15086777852.svg",
+    "static/media/instagram.svg": "/insta-repo-app/static/media/instagram.8a47bbe23e89cf10b81572de952bb6e1.svg",
+    "static/media/home.svg": "/insta-repo-app/static/media/home.a82078121df11f3d810a06b7b72a5b3b.svg",
+    "index.html": "/insta-repo-app/index.html",
+    "main.c1c3b275.css.map": "/insta-repo-app/static/css/main.c1c3b275.css.map",
+    "main.da004b2f.js.map": "/insta-repo-app/static/js/main.da004b2f.js.map",
+    "787.17499830.chunk.js.map": "/insta-repo-app/static/js/787.17499830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c3b275.css",
+    "static/js/main.da004b2f.js"
+  ]
+}
